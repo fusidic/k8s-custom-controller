@@ -1,4 +1,4 @@
 // +k8s:deepcopy-gen=package
-// +groupName=samplecrd.k8s.io
+// +groupName=samplecrd.nuzar.top
 
 package v1

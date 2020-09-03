@@ -1,4 +1,4 @@
-apiVersion: samplecrd.k8s.io/v1
+apiVersion: samplecrd.nuzar.top/v1
 kind: Network
 metadata:
   name: example-network

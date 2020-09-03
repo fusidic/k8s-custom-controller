@@ -7,11 +7,16 @@ require (
 	github.com/go-openapi/spec v0.19.9 // indirect
 	github.com/go-openapi/swag v0.19.9 // indirect
 	github.com/mailru/easyjson v0.7.6 // indirect
+	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e // indirect
 	golang.org/x/tools v0.0.0-20200902012652-d1954cc86c82 // indirect
 	gopkg.in/yaml.v2 v2.3.0 // indirect
+	k8s.io/api v0.19.0 // indirect
 	k8s.io/apimachinery v0.19.0
+	k8s.io/client-go v11.0.0+incompatible // indirect
 	k8s.io/code-generator v0.19.0
 	k8s.io/gengo v0.0.0-20200728071708-7794989d0000 // indirect
+	k8s.io/klog v1.0.0 // indirect
 	k8s.io/klog/v2 v2.3.0 // indirect
 	k8s.io/kube-openapi v0.0.0-20200831175022-64514a1d5d59 // indirect
+	k8s.io/utils v0.0.0-20200821003339-5e75c0163111 // indirect
 )
