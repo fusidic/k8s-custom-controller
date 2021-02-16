@@ -4,23 +4,23 @@ metadata:
   name: networks.samplecrd.nuzar.top
 spec:
   group: samplecrd.nuzar.top
-  versions:
-  - name: v1
-    served: true
-    storage: true
-    schema:
-      openAPIV3Schema:
-        type: object
-        properties:
-          spec:
-            type: object
-            properties:
-              cronSpec:
-                type: string
-              image:
-                type: string
-              replicas:
-                type: integer
+  versions: v1
+  # - name: v1
+  #   served: true
+  #   storage: true
+  #   schema:
+  #     openAPIV3Schema:
+  #       type: object
+  #       properties:
+  #         spec:
+  #           type: object
+  #           properties:
+  #             cronSpec:
+  #               type: string
+  #             image:
+  #               type: string
+  #             replicas:
+  #               type: integer
   names:
     kind: Network
     plural: networks
